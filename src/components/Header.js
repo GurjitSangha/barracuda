@@ -14,6 +14,7 @@ export default function Header() {
           <ul>
             <li className="active"><a href="index.html">Home</a></li>
             <li><a href="#menu">Menu</a></li>
+            <li><a href="#specials">Specials</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
         </nav>
