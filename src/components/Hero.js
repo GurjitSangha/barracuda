@@ -17,7 +17,7 @@ export default function Hero() {
                 <div className="carousel-content">
                   <h2 className="animate__animated animate__fadeInDown"><span>Barracuda</span> Fish Bar</h2>
                   <div>
-                    <Link to="menu" smooth={true} duration={500} className="btn-menu animate__animated animate__fadeInUp">Our Menu</Link>
+                    <Link to="menu" offset={-30} smooth={true} duration={500} className="btn-menu animate__animated animate__fadeInUp">Our Menu</Link>
                   </div>
                 </div>
               </div>
