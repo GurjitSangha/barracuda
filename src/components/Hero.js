@@ -15,7 +15,6 @@ export default function Hero() {
               <div className="carousel-container">
                 <div className="carousel-content">
                   <h2 className="animate__animated animate__fadeInDown"><span>Barracuda</span> Fish Bar</h2>
-                  <p className="animate__animated animate__fadeInUp">Website Coming Soon</p>
                   <div>
                     <a href="#menu" className="btn-menu animate__animated animate__fadeInUp scrollto">Our Menu</a>
                   </div>
