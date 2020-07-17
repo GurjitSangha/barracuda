@@ -26,7 +26,7 @@ export default function Contact() {
             <div className="col-lg-4 col-md-4 info mt-4 mt-lg-0">
               <i className="icofont-clock-time icofont-rotate-90"></i>
               <h4>Open Hours:</h4>
-              <p>Monday-Friday:<br/>11:30 AM - 19:00 PM</p>
+              <p>Monday - Friday:<br/>11:30 AM - 19:00 PM</p>
             </div>
 
             <div class="col-lg-4 col-md-4 info mt-4 mt-lg-0">
