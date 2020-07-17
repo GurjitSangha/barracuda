@@ -4,7 +4,7 @@ import { specials } from '../menuData'
 
 export default function Specials() {
   return (
-    <section id="menu" className="menu">
+    <section id="specials" className="menu">
       <div className="container">
         <div className="section-title">
           <h2>Our <span>Specials</span></h2>

@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-scroll'
 import './Hero.css'
 
 export default function Hero() {
@@ -16,7 +17,7 @@ export default function Hero() {
                 <div className="carousel-content">
                   <h2 className="animate__animated animate__fadeInDown"><span>Barracuda</span> Fish Bar</h2>
                   <div>
-                    <a href="#menu" className="btn-menu animate__animated animate__fadeInUp scrollto">Our Menu</a>
+                    <Link to="menu" smooth={true} duration={500} className="btn-menu animate__animated animate__fadeInUp">Our Menu</Link>
                   </div>
                 </div>
               </div>
