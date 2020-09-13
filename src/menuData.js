@@ -44,17 +44,17 @@ export default {
   "items": [
     {
       "name": "Cod (Reg)",
-      "price": "2.60",
+      "price": "2.80",
       "filter": "fish"
     },
     {
       "name": "Cod (Large)",
-      "price": "4.20",
+      "price": "4.50",
       "filter": "fish"
     },
     {
       "name": "Cod Roe",
-      "price": "1.20",
+      "price": "1.30",
       "filter": "fish"
     },
     {
@@ -64,32 +64,32 @@ export default {
     },
     {
       "name": "Fish Rissole",
-      "price": "1.10",
+      "price": "1.20",
       "filter": "fish"
     },
     {
       "name": "Scampi (12 pcs)",
-      "price": "3.00",
+      "price": "4.20",
       "filter": "fish"
     },
     {
       "name": "Chips (Reg)",
-      "price": "1.80",
+      "price": "1.90",
       "filter": "chips"
     },
     {
       "name": "Chips (Large",
-      "price": "2.60",
+      "price": "2.80",
       "filter": "chips"
     },
     {
       "name": "Chips & Cheese (Reg)",
-      "price": "2.70",
+      "price": "2.80",
       "filter": "chips"
     },
     {
       "name": "Chips & Cheese (Large)",
-      "price": "3.50",
+      "price": "3.60",
       "filter": "chips"
     },
     {
@@ -99,62 +99,62 @@ export default {
     },
     {
       "name": "Sausage (Reg)",
-      "price": "0.80",
+      "price": "1.00",
       "filter": "sausages"
     },
     {
       "name": "Sausage (Large)",
-      "price": "1.10",
-      "filter": "sausages"
-    },
-    {
-      "name": "Battered Sausage (Reg)",
-      "price": "0.90",
-      "filter": "sausages"
-    },
-    {
-      "name": "Battered Sausage (Large)",
       "price": "1.20",
       "filter": "sausages"
     },
     {
-      "name": "Cheese & Onion Rissole",
+      "name": "Battered Sausage (Reg)",
       "price": "1.10",
       "filter": "sausages"
     },
     {
+      "name": "Battered Sausage (Large)",
+      "price": "1.30",
+      "filter": "sausages"
+    },
+    {
+      "name": "Cheese & Onion Rissole",
+      "price": "1.20",
+      "filter": "sausages"
+    },
+    {
       "name": "Sides (Small)",
-      "price": "0.80",
+      "price": "0.90",
       "filter": "sausages",
       "description": "Peas, Beans, Curry or Gravy"
     },
     {
       "name": "Sides (Large)",
-      "price": "1.00",
+      "price": "1.10",
       "filter": "sausages",
       "description": "Peas, Beans, Curry or Gravy"
     },
     {
       "name": "Pukka Pies",
-      "price": "2.20",
+      "price": "2.30",
       "filter": "sausages",
       "description": "Steak & Kidney, Chicken & Mushroom, Beef & Onion, Meat & Potato"
     },
     {
       "name": "Cheese Burger",
-      "price": "2.20",
+      "price": "2.40",
       "filter": "burgers",
       "description": "Served with fresh salad and a choice of sauce. Make it a double for +£1"
     },
     {
       "name": "Chicken Burger",
-      "price": "2.20",
+      "price": "2.40",
       "filter": "burgers",
       "description": "Served with fresh salad and a choice of sauce. Make it a double for +£1"
     },
     {
       "name": "Chicken Fillet Burger",
-      "price": "2.40",
+      "price": "2.60",
       "filter": "burgers",
       "description": "Served with fresh salad and a choice of sauce. Make it a double for +£1"
     },
@@ -195,43 +195,43 @@ export default {
     },
     {
       "name": "Homemade Chicken Curry (Small)",
-      "price": "3.50",
+      "price": "4.20",
       "filter": "homemade",
       "description": "Served with Chips or Rice"
     },
     {
       "name": "Homemade Chicken Curry (Large)",
-      "price": "6.50",
+      "price": "7.20",
       "filter": "homemade",
       "description": "Served with Chips or Rice"
     },
     {
       "name": "Donner (Pitta)",
-      "price": "3.50",
+      "price": "3.80",
       "filter": "kebabs",
       "description": "Served with fresh salad & a choice of sauces. Go Large for +£1"
     },
     {
       "name": "Donner Kebab (Naan Bread)",
-      "price": "5.50",
+      "price": "6.00",
       "filter": "kebabs",
       "description": "Served with fresh salad & a choice of sauces."
     },
     {
       "name": "Donner Kebab (with Chips)",
-      "price": "3.50",
+      "price": "3.80",
       "filter": "kebabs",
       "description": "Served with fresh salad & a choice of sauces. Go Large for +£1"
     },
     {
       "name": "Donner Kebab (in Tray)",
-      "price": "3.30",
+      "price": "3.50",
       "filter": "kebabs",
       "description": "Served with fresh salad & a choice of sauces. Go Large for +£1"
     },
     {
       "name": "Donner Kebab (Bread Cake)",
-      "price": "2.70",
+      "price": "3.00",
       "filter": "kebabs",
       "description": "Served with fresh salad & a choice of sauces."
     },
@@ -239,11 +239,11 @@ export default {
       "name": "Chicken Kebab (Pitta)",
       "price": "3.80",
       "filter": "kebabs",
-      "description": "Served with fresh salad & a choice of sauces. Go Large for +£1"
+      "description": "Served with fresh salad & a choice of sauces. Go Large for +£1.40"
     },
     {
       "name": "Chicken Kebab (Naan Bread)",
-      "price": "6.00",
+      "price": "6.50",
       "filter": "kebabs",
       "description": "Served with fresh salad & a choice of sauces."
     },
@@ -251,13 +251,13 @@ export default {
       "name": "Chicken Kebab (with Chips)",
       "price": "3.80",
       "filter": "kebabs",
-      "description": "Served with fresh salad & a choice of sauces. Go Large for +£1"
+      "description": "Served with fresh salad & a choice of sauces. Go Large for +£1.40"
     },
     {
       "name": "Chicken Kebab (in Tray)",
       "price": "3.80",
       "filter": "kebabs",
-      "description": "Served with fresh salad & a choice of sauces. Go Large for +£1"
+      "description": "Served with fresh salad & a choice of sauces. Go Large for +£1.20"
     },
     {
       "name": "Chicken Kebab (Bread Cake)",
@@ -267,43 +267,43 @@ export default {
     },
     {
       "name": "Mixed Kebab (Pitta)",
-      "price": "4.50",
+      "price": "5.00",
       "filter": "kebabs",
       "description": "Served with fresh salad & a choice of sauces. Go Large for +£1"
     },
     {
       "name": "Mixed Kebab (Naan Bread)",
-      "price": "6.50",
+      "price": "7.00",
       "filter": "kebabs",
       "description": "Served with fresh salad & a choice of sauces."
     },
     {
       "name": "Mixed Kebab (with Chips)",
-      "price": "5.50",
+      "price": "5.70",
       "filter": "kebabs",
       "description": "Served with fresh salad & a choice of sauces."
     },
     {
       "name": "Mixed Kebab (in Tray)",
-      "price": "5.20",
+      "price": "5.50",
       "filter": "kebabs",
       "description": "Served with fresh salad & a choice of sauces."
     },
     {
       "name": "Mixed Kebab (Bread Cake)",
-      "price": "3.80",
+      "price": "4.00",
       "filter": "kebabs",
       "description": "Served with fresh salad & a choice of sauces."
     },
     {
       "name": "Plain Naan",
-      "price": "1.70",
+      "price": "1.90",
       "filter": "kebabs",
       "description": "Grilled to order"
     },
     {
       "name": "Garlic Naan",
-      "price": "1.80",
+      "price": "2.20",
       "filter": "kebabs",
       "description": "Grilled to order"
     },
@@ -321,7 +321,7 @@ export default {
     },
     {
       "name": "Bottled Vinegar",
-      "price": "1.10",
+      "price": "1.20",
       "filter": "condiments"
     },
     {
@@ -331,13 +331,13 @@ export default {
     },
     {
       "name": "Dips (Small)",
-      "price": "0.80",
+      "price": "0.90",
       "filter": "condiments",
       "description": "Hot Chilli, Sweet Chilli, Ketchup, Mayo, Garlic Mayo, Mint Yoghurt, BBQ"
     },
     {
       "name": "Dips (Large)",
-      "price": "1.00",
+      "price": "1.10",
       "filter": "condiments",
       "description": "Hot Chilli, Sweet Chilli, Ketchup, Mayo, Garlic Mayo, Mint Yoghurt, BBQ"
     },
