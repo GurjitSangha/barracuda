@@ -390,7 +390,7 @@ export default {
 export const specials = [
   {
     "name": "Mini Fish & Chips",
-    "price": "3.80",
+    "price": "4.00",
     "description": "Served with Peas, Curry, Gravy or Beans"
   },
   {
@@ -400,32 +400,32 @@ export const specials = [
   },
   {
     "name": "Chicken Fillet Burger",
-    "price": "4.00",
+    "price": "4.20",
     "description": "Served with Chips and a can of pop"
   },
   {
     "name": "Any Burger",
-    "price": "3.80",
+    "price": "4.00",
     "description": "Choose from: Cheese, Chicken with chips and a can of pop"
   },
   {
     "name": "Donner Burger",
-    "price": "3.30",
-    "description": "Served with Chips"
-  },
-  {
-    "name": "Chicken Kebab Burger",
-    "price": "3.60",
-    "description": "Served with Chips"
-  },
-  {
-    "name": "Mini Donner Meat",
     "price": "3.50",
     "description": "Served with Chips"
   },
   {
-    "name": "Mini Chicken Meat",
+    "name": "Chicken Kebab Burger",
     "price": "3.80",
+    "description": "Served with Chips"
+  },
+  {
+    "name": "Mini Donner Meat",
+    "price": "3.70",
+    "description": "Served with Chips"
+  },
+  {
+    "name": "Mini Chicken Meat",
+    "price": "4.00",
     "description": "Served with Chips"
   },
 ]
