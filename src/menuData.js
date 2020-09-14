@@ -59,7 +59,7 @@ export default {
     },
     {
       "name": "Fish Cake",
-      "price": "1.60",
+      "price": "1.70",
       "filter": "fish"
     },
     {
@@ -237,9 +237,9 @@ export default {
     },
     {
       "name": "Chicken Kebab (Pitta)",
-      "price": "3.80",
+      "price": "4.00",
       "filter": "kebabs",
-      "description": "Served with fresh salad & a choice of sauces. Go Large for +£1.40"
+      "description": "Served with fresh salad & a choice of sauces. Go Large for +£1.20"
     },
     {
       "name": "Chicken Kebab (Naan Bread)",
@@ -249,19 +249,19 @@ export default {
     },
     {
       "name": "Chicken Kebab (with Chips)",
-      "price": "3.80",
-      "filter": "kebabs",
-      "description": "Served with fresh salad & a choice of sauces. Go Large for +£1.40"
-    },
-    {
-      "name": "Chicken Kebab (in Tray)",
-      "price": "3.80",
+      "price": "4.00",
       "filter": "kebabs",
       "description": "Served with fresh salad & a choice of sauces. Go Large for +£1.20"
     },
     {
+      "name": "Chicken Kebab (in Tray)",
+      "price": "4.00",
+      "filter": "kebabs",
+      "description": "Served with fresh salad & a choice of sauces. Go Large for +£1"
+    },
+    {
       "name": "Chicken Kebab (Bread Cake)",
-      "price": "3.50",
+      "price": "3.70",
       "filter": "kebabs",
       "description": "Served with fresh salad & a choice of sauces."
     },
